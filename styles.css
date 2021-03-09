@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+  box-sizing: border-box;
+}
+html
+{
+	display: flex;
+	flex: 1;
+	flex-flow: wrap;
+} /*just an example*/
